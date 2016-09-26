@@ -1,0 +1,17 @@
+{
+    "name": "toni/tracy-example",
+    "type": "library",
+    "require": {
+        "tracy/tracy": "^2.4",
+        "silex/silex": "~2.0",
+        "twig/twig": "^1.25",
+        "symfony/twig-bridge": "^3.1"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Toni Van de Voorde",
+            "email": "toni.vdv@gmail.com"
+        }
+    ]
+}
